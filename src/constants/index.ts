@@ -1,0 +1,4 @@
+export const ADD_NEWONE_TASK = "ADD_NEWONE_TASK";
+export const TOGGLE_ITEM_TASK = "TOGGLE_ITEM_TASK";
+export const EDIT_ITEM_TASK = "EDIT_ITEM_TASK";
+export const DELET_ITEM_TASK = "EDIT_ITEM_TASK";
